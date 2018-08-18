@@ -24,7 +24,7 @@ int main() {
             {
             j=j-n;
         }
-        printf("%ld\n",j);
+        printf("print %ld\n",j);
     }
     
     return 0;
